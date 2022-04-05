@@ -1,0 +1,210 @@
+* {
+
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-size: 62.5%;
+}
+
+
+.main {
+    width: 400px;
+    height: 90px;
+    border-radius: 20px;
+    padding-top: 20px;
+
+}
+
+.t1 {
+    width: 400px;
+    height: 200px;
+
+}
+.container {
+    width: 370px;
+    height: 310px;
+    margin: auto;
+    background-color: rgba(250, 250, 250, 0.2);
+    margin-top: 230px;
+    border-radius: 20px;
+    padding-top: 20px;
+}
+
+
+.printP {
+    width: 370px;
+    height: 310px;
+    margin: auto;
+    padding-top: 20px;
+    margin-top: 230px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+
+
+.t {
+    width: 400px;
+    height: 350px;
+
+
+}
+h2 {
+    padding: 3rem;
+    margin-top:20px;
+    margin-left:20px;
+    margin-right: 20px;
+    font-size: 30px;
+    color: rgb(110, 202, 255);
+    background: rgb(255, 255, 255);
+    opacity: 93%;
+}
+
+
+form {
+
+    border: 2px solid white;
+    border-radius: 10px;
+    padding-left: 10px;
+    width: 170px;
+    padding-top: 5px;
+    background: rgb(255, 255, 255);
+    margin: 10px auto;
+    padding: 10 px;
+    margin-top:40px;
+    opacity:93%;
+    width: 400px;
+    height: 740px;
+    font-size: 25px;
+   
+}
+
+p {
+    opacity:93%;
+    border: 2px solid white;
+    border-radius: 10px;
+    
+    background: rgb(255, 255, 255);
+    margin-left: 1200px;
+    margin-top: -220px;
+    padding: 10px;
+    overflow: auto;
+    width: 550px;
+    height: 150px;
+    font-size: 25px;
+
+
+}
+
+div {
+     opacity:93%;
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 20px;
+    background: rgb(255, 255, 255);
+    margin-left: 760px;
+    
+    padding: 10px;
+    overflow: auto;
+    width: 400px;
+    height: 200px;
+    font-size: 25px;
+
+}
+.not {
+    border: 2px solid rgb(255, 255, 255);
+    
+    border-radius: 10px;
+  
+    background: rgb(255, 255, 255);
+    margin-left: 760px;
+    margin-top:10px;
+    padding: 10px;
+    overflow: auto;
+    width: 400px;
+    height: 70px;
+    font-size: 25px;
+
+}
+
+body {
+    background-image: url(image/1.jpeg);
+    background-size: cover;
+ font-family: sans-serif;
+ color: black;
+ display: flex;
+ flex-direction: column;
+}
+
+.label {
+    font-size: 38px;
+    margin-left: 25px;
+    color: black;
+     border: 2px solid white;
+     border-radius: 10px;
+     padding-left: 10px;
+     width: 170px;
+     padding-top: 5px;
+     background: rgb(255, 255, 255);
+ 
+    
+     margin-top:40px;
+     opacity:93%;
+     width: 400px;
+     height: 300px;
+     font-size: 25px;
+}
+
+input {
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 24px;
+    border-radius: 7px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 15px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    
+}
+
+button {
+    
+    width: 330px;
+    height: 40px;
+    margin-left: 17px;
+    margin-top: 15px;
+    border-radius: 10px;
+    font-family: Georgia;
+    font-size: 21px;
+    background-color: #dfdfdf;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    margin-left: 200px;
+}
+
+
+nav {
+    display: grid;
+    background: rgb(102, 204, 255);
+    margin-left: 1rem;
+    margin-right: 2rem;
+    padding: 1.5rem;
+    margin-top: 2rem;
+}
+
+li {
+    
+    font-style: normal;
+    font-size: 40px;
+    display: inline;
+    
+    margin-left: -3rem;
+}
+
+
