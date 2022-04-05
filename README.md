@@ -12,5 +12,5 @@ A school website as part of a semester project in PHP.
 Has options to add edit, delete and view student information from the database.
 
 Use of technologies:
-PHP, PHPMYADMIN, MYSQL,SQL.
+PHP, PHPMYADMIN, MYSQL,CSS,HTML.
 
